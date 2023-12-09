@@ -2,7 +2,7 @@
 // @name         Word and Image Blocker - Settings - UI
 // @namespace    https://github.com/def-initive/
 // @version      1.0
-// @description  Display a UI element with a list of blocked phrases and settings
+// @description  This is the UI script. It's seperate so you can toggle the UI on and off. Use this script to add and delete words and phrases. Toggle off and on in the violentmonkey extension. Blocking works without this toggled on.
 // @author       def-initive
 // @match        *://*/*
 // @exclude      *://github.com/*
