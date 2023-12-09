@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Word and Image Blocker
 // @namespace    https://github.com/def-initive/
-// @version      1
+// @version      1.1
 // @description  Block words, phrases and images associated with those phrases. For the UI to add and delete words and phrases to block, please also install the following, https://greasyfork.org/en/scripts/481834-word-and-image-blocker-settings-ui
 // @author       def-initive
 // @match        *://*/*
