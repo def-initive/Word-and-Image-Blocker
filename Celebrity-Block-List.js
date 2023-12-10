@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Celebrity-Block-List Install this to have an ever-growing list of celebrities to block
 // @namespace    https://github.com/def-initive/
-// @version      1
+// @version      1.1
 // @description  Load celebrities into the blockedPhrases variable.
 // @author       def-initive
 // @match        *://*/*
@@ -29,7 +29,7 @@
 
     // Add your list of names and phrases here
     var customPhrases = [
-        'taylor swift','taylorswift','taytay','swiftie','kanye',
+        'taylor swift','taylorswift','taytay','swiftie','kanye','yeezy',
         // Add more names and phrases as needed
     ];
 
