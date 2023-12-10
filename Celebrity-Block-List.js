@@ -29,7 +29,7 @@
 
     // Add your list of names and phrases here
     var customPhrases = [
-        'taylor swift','taylorswift','taytay','swiftie','kanye','yeezy',
+        'taylor swift','taylorswift','taytay','swiftie','kanye','yeezy','kardashian',
         // Add more names and phrases as needed
     ];
 
