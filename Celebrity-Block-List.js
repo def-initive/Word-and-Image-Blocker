@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Celebrity-Block-List Instal this to have an ever-growing list of celebrities to block
+// @name         Celebrity-Block-List Install this to have an ever-growing list of celebrities to block
 // @namespace    https://github.com/def-initive/
 // @version      1
 // @description  Load celebrities into the blockedPhrases variable.
