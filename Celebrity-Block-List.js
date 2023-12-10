@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Celebrity-Block-List Instal this to have an ever-growing list of celebrities to block
-// @namespace    https://example.com/
+// @namespace    https://github.com/def-initive/
 // @version      1
 // @description  Load celebrities into the blockedPhrases variable.
-// @author       Your Name
+// @author       def-initive
 // @match        *://*/*
 // @exclude      *://github.com/*
 // @exclude      *://greasyfork.org/*
